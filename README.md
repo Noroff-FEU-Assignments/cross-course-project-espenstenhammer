@@ -1,9 +1,9 @@
-# Rainy Days - school prosject Noroff 2022
+# Rainy Days - school project Noroff 2022
 
 ## Pushing the comfort zone 
 
 
-### My school procject at Noroff 2022
+### My school project at Noroff 2022
 
 
 
